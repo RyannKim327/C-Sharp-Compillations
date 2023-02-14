@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\bin\Debug\net7.0\C Sharp Compillations.exe
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\bin\Debug\net7.0\C Sharp Compillations.deps.json
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\bin\Debug\net7.0\C Sharp Compillations.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\bin\Debug\net7.0\C Sharp Compillations.dll
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\bin\Debug\net7.0\C Sharp Compillations.pdb
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.dll
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\refint\C Sharp Compillations.dll
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.pdb
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\C Sharp Compillations.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp\C Sharp Compillations\obj\Debug\net7.0\ref\C Sharp Compillations.dll
