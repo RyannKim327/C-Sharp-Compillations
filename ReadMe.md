@@ -11,4 +11,15 @@
 > I highly recommend to you to use [Replit](https://replit.com) to run these program. It is for you to code without any hastle. First is go to [Replit](https://replit.com) and create an account, if you already have an account, create a program or a repository, bu clicking the `Create +` button. Click template, and search for `C#`, not **Mono C#** only **C#**. Next is name your repo, and click `+ Create Repl`.
 
 ---
+### Dotnet
+**To Build**
+```Bash
+dotnet build
+```
+**To Run**
+```Bash
+dotnet run
+```
+
+---
 > Theses is just a simple program, and I'm still newbie in learning C#, that's why I want to share it with you.
