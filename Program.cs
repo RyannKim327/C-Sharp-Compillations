@@ -7,6 +7,8 @@ namespace MyPrograms{
 			new FirstProject();
 			Console.WriteLine("Basic Input");
 			new BasicInput();
+			Console.WriteLine("Multiplication Table");
+			new MultiplicationTable();
 		}
 	}
 }
