@@ -1,7 +1,9 @@
 using System;
 
-class Program{
-	public static void Main(string[] args){
-		Console.WriteLine("Hello C#");
+namespace MyProgram{
+	internal class FirstProject{
+		public FirstProject(){
+			Console.WriteLine("Hello C#");
+		}
 	}
 }
