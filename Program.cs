@@ -3,7 +3,8 @@ using MyProgram;
 namespace MyPrograms{
 	class Program{
 		public static void Main(string[] args){
-			LPattern();
+			// Just call the function here
+			Triangle();
 		}
 		public static void FirstProject(){
 			Console.WriteLine("First Project");
@@ -21,6 +22,10 @@ namespace MyPrograms{
 		public static void LPattern(){
 			Console.WriteLine("L Pattern");
 			new LPattern();
+		}
+		public static void Triangle(){
+			Console.WriteLine("Right Triangle");
+			new Triangle();
 		}
 	}
 }
