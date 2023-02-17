@@ -4,12 +4,11 @@ namespace MyPrograms{
 	class Program{
 		public static void Main(string[] args){
 			// Just call the function here
-			Triangle();
+			LIndentPattern();
 		}
 		public static void FirstProject(){
 			Console.WriteLine("First Project");
 			new FirstProject();
-			
 		}
 		public static void BasicInput(){
 			Console.WriteLine("Basic Input");
@@ -26,6 +25,10 @@ namespace MyPrograms{
 		public static void Triangle(){
 			Console.WriteLine("Right Triangle");
 			new Triangle();
+		}
+		public static void LIndentPattern(){
+			Console.WriteLine("L Indent Pattern");
+			new LIndentPattern();
 		}
 	}
 }
