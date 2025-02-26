@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EWyK0H/uwWas1VYbIPsl+bBHyFub8pjEjcnnSZq1m9PgWfrG6amSYt5BNpgIEGc5UVW4aaA05QyrljtGZt5Nyg==",
+  "dgSpecHash": "WcvyrynwALc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\CSharp\\C Sharp Compillations\\C Sharp Compillations.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/krysanne/Programming/C-Sharp-Compillations/C Sharp Compillations.csproj",
+  "expectedPackageFiles": [
+    "/home/krysanne/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

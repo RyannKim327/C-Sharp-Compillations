@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\CSharp\\C Sharp Compillations\\C Sharp Compillations.csproj": {}
+    "/home/krysanne/Programming/C-Sharp-Compillations/C Sharp Compillations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\CSharp\\C Sharp Compillations\\C Sharp Compillations.csproj": {
+    "/home/krysanne/Programming/C-Sharp-Compillations/C Sharp Compillations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\CSharp\\C Sharp Compillations\\C Sharp Compillations.csproj",
+        "projectUniqueName": "/home/krysanne/Programming/C-Sharp-Compillations/C Sharp Compillations.csproj",
         "projectName": "C Sharp Compillations",
-        "projectPath": "C:\\Users\\PC\\Desktop\\CSharp\\C Sharp Compillations\\C Sharp Compillations.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\CSharp\\C Sharp Compillations\\obj\\",
+        "projectPath": "/home/krysanne/Programming/C-Sharp-Compillations/C Sharp Compillations.csproj",
+        "packagesPath": "/home/krysanne/.nuget/packages/",
+        "outputPath": "/home/krysanne/Programming/C-Sharp-Compillations/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/krysanne/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -32,11 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -48,12 +54,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.1, 9.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
